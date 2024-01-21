@@ -1,0 +1,102 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 162.44px%;
+}
+figure{
+    text-align: center;
+    font-style: italic;align-self: start;
+    color: rgb(231, 27, 78)
+    font-size: 100%;
+  
+}
+.p1 {
+    color: chocolate;
+    font-style: italic;
+    font-size: 1.1rem;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: green;
+    position: absolute;
+    left: 20%;
+    top: 1.5%;
+  }
+  .p2 {
+    color: lightslategray;
+    opacity: calc(1);
+    font-style: italic;
+    font-size: 1.1rem;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: green;
+    position: absolute;
+    left: 16.5%;
+    top: 7.5%;
+    font-weight: bold;
+  }
+  .p3 {
+    color: lightslategray;
+    opacity: calc(1);
+    font-style: italic;
+    font-size: 1.1rem;
+    text-underline-offset: 10px;
+    position: absolute;
+    left: 18.5%;
+    top: 14%;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .p4 {
+    color: chocolate;
+    font-style: italic;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: rgb(4, 8, 4);
+    font-weight: 800;
+    letter-spacing: 0.15rem;
+    position: absolute;
+    left: 75%;
+    top: 3%;
+  }
+  .p5 {
+    color: lightslategray;
+    opacity: calc(1);
+    font-style: italic;
+    font-size: 1.1rem;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: green;
+    position: absolute;
+    left: 72%;
+    top: 10%;
+    font-weight: bold;
+  }
+  .p6 {
+    color: lightslategray;
+    opacity: calc(1);
+    font-style: italic;
+    font-size: 1.1rem;
+    text-underline-offset: 10px;
+    position: absolute;
+    left: 73%;
+    top: 16.5%;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .linkview{
+    text-align: center;
+
+  
+  }
+  #linkview{
+    text-align: center;
+  }
+  .p7{
+    color: black;
+  text-decoration: dashed; 
+  font-weight: 900;
+  }
